@@ -1,2 +1,2 @@
-# wildLifePhotography
+# WildLifePhotography
 Wild Life Photography
